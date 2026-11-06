@@ -138,7 +138,6 @@ export const register: Register = on => {
       name: 'pins',
       description: 'Open the sidebar with the pinned links of this chat',
     })
-    void $.ui.open(PANE_OPEN)
     await $.tool.register({
       name: 'pin',
       isDeferred: false,
