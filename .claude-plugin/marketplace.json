@@ -1,0 +1,16 @@
+{
+  "name": "pins",
+  "owner": {
+    "name": "Vitalii Popov"
+  },
+  "metadata": {
+    "description": "Pin the links of this chat in a ranked sidebar, with PR and CI status for GitHub PRs"
+  },
+  "plugins": [
+    {
+      "name": "pins",
+      "source": "./",
+      "description": "Pin the links of this chat in a ranked sidebar, with PR and CI status for GitHub PRs"
+    }
+  ]
+}

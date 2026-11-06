@@ -1,0 +1,11 @@
+{
+  "name": "pins",
+  "version": "0.1.0",
+  "description": "Pin the links of this chat in a ranked sidebar, with PR and CI status for GitHub PRs",
+  "author": { "name": "Vitalii Popov", "url": "https://github.com/popoffvg" },
+  "homepage": "https://github.com/popoffvg/pins",
+  "repository": "https://github.com/popoffvg/pins",
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "pins", "links", "github"],
+  "types": "./types/index.d.ts"
+}
